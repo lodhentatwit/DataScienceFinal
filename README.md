@@ -33,5 +33,5 @@ The 3 questions:
 
   The graph above shows the genre of all the top movies. There is one major outlier in the bar graph, over 170 movies out of the top 250 are drama-based. The least-watched movie genre is horror. Most of the movies in the database were also mixed in genre for example, "Inception" was categorized as an action, adventure, and sci-fi movie.
 
-##Conclusion
+## Conclusion
 When looking at the top 250 IMDb-rated movies there is a lot to unfold. The majority of the movies are rated 8.1/10 and  there was not a single movie with a perfect score. The lowest-rated movies were 8/10 and the highest was 9.3/10. Almost half of all the movies were age-rated to R, which meant the majority of the movies where meant for the adult audience. Lastly, the most popular genre within the top 250 movies was Drama. 
